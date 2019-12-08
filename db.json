@@ -1,0 +1,54 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "label": "Learn angular 7",
+      "completed": true
+    },
+    {
+      "id": 2,
+      "label": "Learn Spring boot",
+      "completed": true
+    },
+    {
+      "id": 5,
+      "label": "Learn machine learning",
+      "completed": true
+    },
+    {
+      "label": "JAVA",
+      "completed": false,
+      "id": 6
+    },
+    {
+      "label": "Learn ReactJS",
+      "completed": true,
+      "id": 8
+    },
+    {
+      "label": "Learn Cpp",
+      "completed": true,
+      "id": 9
+    },
+    {
+      "label": "teet",
+      "completed": true,
+      "id": 10
+    },
+    {
+      "label": "LEARN",
+      "completed": false,
+      "id": 11
+    },
+    {
+      "label": "aze",
+      "completed": false,
+      "id": 12
+    },
+    {
+      "label": "az",
+      "completed": false,
+      "id": 13
+    }
+  ]
+}
